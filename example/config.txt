@@ -1,0 +1,2 @@
+Prefix plugins/GTF2BED/example/
+Plugin GTF2BED inputfile sample.gtf outputfile sample.bed
